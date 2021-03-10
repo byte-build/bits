@@ -1,5 +1,5 @@
-# byte prizes
+# byte bits
 
-Edit prizes in `data/prizes.json`
+Edit items in `data/bits.json`
 
-Add images in `images` (the image name must be the prize ID)
+Add images in `images` (the image name must be the item ID)
