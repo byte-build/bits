@@ -1,0 +1,32 @@
+{
+	"small-boost": {
+		"name": "Small Boost",
+		"bits": 5,
+		"cost": 99
+	},
+	"bit-satchel": {
+		"name": "Bit Satchel",
+		"bits": 30,
+		"cost": 499
+	},
+	"bit-bucket": {
+		"name": "Bit Bucket",
+		"bits": 100,
+		"cost": 1499
+	},
+	"bit-overflow": {
+		"name": "Bit Overflow",
+		"bits": 220,
+		"cost": 2999
+	},
+	"trust-fund": {
+		"name": "Trust Fund",
+		"bits": 400,
+		"cost": 4999
+	},
+	"bit-laundering": {
+		"name": "Bit Laundering",
+		"bits": 1000,
+		"cost": 9999
+	}
+}
